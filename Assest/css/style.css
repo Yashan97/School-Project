@@ -10,8 +10,17 @@
     width: 80px;
     height: 80px;
 }
-.cover img{
-    width:100%;
-    height: 100vh;
-    display: cover;
+.btn-hover button:hover{
+    background-color:white;
+    
+}
+#Hero{
+    background: url(https://cdn.prod.website-files.com/67aeecfcd8174bc09009ea9d/67b9f1f009b5a94487726d09_IMG_5402.avif);
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: cover;      /* Makes it cover the whole area */
+    background-position: center; /* Centers the image */
+    background-repeat: no-repeat;
+    width: 100%;
+  
 }
