@@ -21,8 +21,8 @@
   background-repeat: no-repeat;
   width: 100%;
 }
-#Hero-about{
-  background-image:url(https://cdn.prod.website-files.com/67aeecfcd8174bc09009ea9d/67bb3d7a2d5282b24642dbbc_IMG_5638.avif);
+#Hero-about {
+  background-image: url(https://cdn.prod.website-files.com/67aeecfcd8174bc09009ea9d/67bb3d7a2d5282b24642dbbc_IMG_5638.avif);
   background-repeat: no-repeat;
   background-position: top;
   background-size: cover; /* Makes it cover the whole area */
@@ -38,17 +38,22 @@
 .cardbtn {
   margin-top: 123px;
 }
-.cardbtn2{
-    margin-top: 45px;
+.cardbtn2 {
+  margin-top: 45px;
 }
-.devising img{
-    border-radius:20px;
-    width: 650px;
+.devising img {
+  border-radius: 20px;
+  width: 650px;
 }
-.logo img{
-    width: 100px;
-    height: 100px; 
-    display: block;
-    margin-left: auto;
-    margin-right: 0;  
+.logo img {
+  width: 100px;
+  height: 100px;
+  display: block;
+  margin-left: auto;
+  margin-right: 0;
+}
+.about-page-img img {
+  width: 700px;
+  height: 500px;
+  border-radius: 20px;
 }
