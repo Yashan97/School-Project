@@ -21,6 +21,15 @@
   background-repeat: no-repeat;
   width: 100%;
 }
+#Hero-about{
+  background-image:url(https://cdn.prod.website-files.com/67aeecfcd8174bc09009ea9d/67bb3d7a2d5282b24642dbbc_IMG_5638.avif);
+  background-repeat: no-repeat;
+  background-position: top;
+  background-size: cover; /* Makes it cover the whole area */
+  background-position: center; /* Centers the image */
+  background-repeat: no-repeat;
+  width: 100%;
+}
 .fosteringImg img {
   width: 600px;
   height: 400px;
